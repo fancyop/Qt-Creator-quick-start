@@ -1,0 +1,10 @@
+!.gitignore
+*.user
+*.qmlc
+/*/*/build-*-Debug
+/*/*/build-*-Profile
+/*/*/build-*-Release
+/*/*/*/build-*-Debug
+/*/*/*/build-*-Profile
+/*/*/*/build-*-Release
+*.4.8-pre1
