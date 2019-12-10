@@ -16,8 +16,8 @@
 
 ------------------------------------
 
-02-1	Qt Widgets Application
-02-2	Empty qmake Project
-02-3	main.cpp+命令行编译
-02-4	02-3 + .ui
-02-5	自定义c++类
+02-01	Qt Widgets Application
+02-02	Empty qmake Project
+02-03	main.cpp+命令行编译
+02-04	02-3 + .ui
+02-05	自定义c++类
